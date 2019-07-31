@@ -83,7 +83,6 @@ git push origin master
 
 ### 3. Run your workflow!!
 
-
 Remember to specify `-profile czbiohub_aws` to grab the CZ Biohub-specific AWS configurations, and an `--outdir` with an AWS S3 bucket so you don't run out of space on your small AMI
 
 ```
